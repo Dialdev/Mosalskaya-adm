@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/adm-mosalsk.dialweb.ru/webstat"
+AuthUserFile /var/www/adm-mosalsk/data/etc/3569485.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

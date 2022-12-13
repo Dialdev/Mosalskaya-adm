@@ -1,0 +1,483 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201603 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.adm-mosalsk.dialweb.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2002                
+POS_TIME 2691                
+POS_VISITOR 25483               
+POS_DAY 25964               
+POS_DOMAIN 3420                
+POS_LOGIN 3655                
+POS_ROBOT 3810                
+POS_WORMS 4036                
+POS_EMAILSENDER 4167                
+POS_EMAILRECEIVER 4310                
+POS_SESSION 26242               
+POS_SIDER 26416               
+POS_FILETYPES 4445                
+POS_DOWNLOADS 4690                
+POS_OS 5073                
+POS_BROWSER 5142                
+POS_SCREENSIZE 5334                
+POS_UNKNOWNREFERER 5408                
+POS_UNKNOWNREFERERBROWSER 5530                
+POS_ORIGIN 5647                
+POS_SEREFERRALS 5789                
+POS_PAGEREFS 5944                
+POS_SEARCHWORDS 6938                
+POS_KEYWORDS 7090                
+POS_MISC 2353                
+POS_ERRORS 7149                
+POS_CLUSTER 3511                
+POS_SIDER_404 7278                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160322182744 8514 2559005 10805080383425
+FirstTime 20160311182839
+LastTime 20160322180849
+LastUpdate 20160323000453 8514 0 8514 0 0
+TotalVisits 18                  
+TotalUnique 8                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 9                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 192 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 1 317
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 2 38 1198723 0 1 1202
+9 332 1154 9054304 14 31 31165
+10 1067 2371 6214843 60 94 86460
+11 1217 2700 10603877 55 99 97828
+12 1599 2661 20741154 111 146 114236
+13 814 956 2658512 46 59 41422
+14 1366 1878 7358488 66 389 214056
+15 1611 2353 8454964 62 374 204828
+16 1101 2306 8845711 52 1187 613459
+17 1423 2674 10968458 98 1093 584793
+18 485 1342 4354627 43 57 53716
+19 0 0 0 0 0 0
+20 56 219 1848353 1 3 3061
+21 432 1185 1027976 32 46 32718
+22 530 1469 1538463 38 57 51997
+23 1 1 525 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 12036 23307 94868978
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+favicon 4 13614 20160322182744 0
+unknown 1 361 20160318170408 1
+yandex 1 317 20160321054743 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 1031 430189 0 0
+png 3909 15159543 0 0
+htm 25 56067 0 0
+php 11141 41509862 0 0
+html 870 3767271 0 0
+js 1772 3438188 0 0
+jpg 4290 29696807 0 0
+doc 5 398139 0 0
+gif 264 412912 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 6
+/robots.txt 2 0 678
+/assets/images/municipal%20property/c17a1c99fc2c16aa013e33ad802d3657-1.doc 1 0 44811
+/assets/docs/f07b80c25a3f25e02205c68dd3e1ee49.doc 1 0 85772
+/assets/images/municipal%20property/44.doc 1 0 38155
+/assets/images/municipal%20property/a3364028fe38812fa76d87815280904e.doc 1 0 143629
+/assets/docs/ustav.doc 1 0 85772
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+Unknown 7
+linux 40
+win7 23260
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 7
+chrome44.0.2403.157 4351
+chrome49.0.2623.87 15171
+Unknown 7
+chrome48.0.2564.116 3364
+chrome49.0.2623.75 332
+firefox41.0 42
+chrome27.0.1453 40
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Bitrix_link_preview 20160321094415
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Bitrix_link_preview 20160321094415
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 51 51
+From1 0 0
+From2 2 2
+From3 66 66
+From4 11917 23188
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 12
+http://192.168.0.22:6448/company/personal/user/542/tasks/task/view/51762/ 41 41
+http://192.168.0.22:6448/company/personal/user/615/tasks/task/view/51996/ 11 11
+http://192.168.0.22:6448/company/personal/user/542/tasks/task/view/51592/ 3 3
+http://192.168.0.22:6448/workgroups/group/389/tasks/task/view/51996/ 3 3
+http://192.168.0.22:6448/portfolio/index.php 1 1
+http://192.168.0.22:6448/company/personal/user/537/tasks/task/view/51592/ 1 1
+http://91.244.244.4:6448/workgroups/group/389/tasks/task/view/51996/ 1 1
+http://91.244.244.4:6448/portfolio/index.php 1 1
+http://192.168.0.22:6448/company/personal/user/610/tasks/task/view/51996/ 1 1
+http://192.168.0.22:6448/company/personal/user/612/tasks/task/view/51996/ 1 1
+http://192.168.0.22:6448/company/personal/user/537/tasks/task/view/51762/ 1 1
+http://91.244.244.4:6448/workgroups/group/389/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 2 1216
+302 626 436072
+301 6 3198
+404 2802 1445696
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 108
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/img/aside-img7.jpg 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/27.jpg 37 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/23.jpg 45 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/3.jpg 66 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/38.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/65.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/62.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/18.jpg 45 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/2.jpg 66 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/1.jpg 66 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/template/img/aside-img1.jpg::http://frontmaster.dial-t.ru/%7C%7Ctemplate/img/aside-img2.jpg::http://techmeat.net/ 2 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/17.jpg 55 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/15.jpg 57 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/37.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/medical/c285a18438ae60732c45d2857bcfd39b_500_0_0.jpg 3 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/41.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/16.jpg 55 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/19.jpg 45 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/img/aside-img1.jpg 2 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/30.jpg 37 http://adm-mosalsk.dialweb.ru/manager/index.php
+/template/img/img.jpg::%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%7C%7C/template/img/img.jpg::%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%7C%7C 2 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/medical/2c49ac26bb5fa0e6da6c9c4458a82b40.jpg 3 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/32.jpg 37 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/36.jpg 27 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/fancybox/jquery.fancybox.js 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/20.jpg 45 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/img/footer-logo.png 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/26.jpg 43 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/11.jpg 59 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/img/aside-img3.jpg 2 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/74.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/34.jpg 38 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/js/selectivizr-min.js 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/9.jpg 62 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/68.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/67.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/69.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/42.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/25.jpg 43 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/31.jpg 37 http://adm-mosalsk.dialweb.ru/manager/index.php
+/img/arrow.png 5 http://adm-mosalsk.dialweb.ru/normativnye-dokumenty.html
+/manager/assets/images/side_menu/culture/71.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/img/aside-img4.jpg 2 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/assets/images/social/a05677dc99958480e08b5c018ddae17b.jpg 4 http://adm-mosalsk.dialweb.ru/obrazovanie.html
+/manager/assets/images/social/a05677dc99958480e08b5c018ddae17b.jpg 12 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/59.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/57.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/28.jpg 37 http://adm-mosalsk.dialweb.ru/manager/index.php
+/template/img/up.png 2 http://adm-mosalsk.dialweb.ru/template/css/styles.css
+/manager/assets/images/side_menu/culture/50.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/js/site.js 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/76.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/img/logo.png 2 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/61.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/51.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/73.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/52.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/8.jpg 63 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/40.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/66.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/56.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E 1 http://adm-mosalsk.dialweb.ru/
+/manager/assets/images/side_menu/culture/35.jpg 27 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/css/styles.css 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/13.jpg 59 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/24.jpg 45 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/js/placeholder.js 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/58.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/fancybox/jquery.fancybox.css 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/53.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/5.jpg 66 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/55.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/48.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/45.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/assets/images/photo-gallery/5.jpg::%D0%92%D1%8B%D0%B2%D0%B5%D1%81%D0%BA%D0%B0%20%D0%BD%D0%B0%20%D0%B2%D1%8A%D0%B5%D0%B7%D0%B4%D0%B5%7C%7Cassets/images/photo-gallery/6.jpg::%D0%A5%D1%80%D0%B0%D0%BC%7C%7Cassets/images/photo-gallery/7.jpg::%D0%A6%D0%B5%D0%BD 6 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/60.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/template/img/aside-img1.jpg::%7C%7Ctemplate/img/aside-img2.jpg::%7C%7Ctemplate/img/aside-img3.jpg::%7C%7Ctemplate/img/aside-img4.jpg::%7C%7Ctemplate/img/aside-img5.jpg::%7C%7Ctemplate/img/aside-img6.jpg::%7C%7Ctemplate/img/aside-img7.jpg::%7C%7Ctemplate/i 7 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/77.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/7.jpg 63 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/64.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/10.jpg 59 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/33.jpg 37 http://adm-mosalsk.dialweb.ru/manager/index.php
+/444 1 -
+/manager/assets/images/side_menu/culture/22.jpg 45 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/43.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/29.jpg 37 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/75.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/63.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/14.jpg 59 http://adm-mosalsk.dialweb.ru/manager/index.php
+/assets/images/investment-offers/24.jpg::%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%9C%D0%BE%D1%81%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0%20%D0%B2%20%D 18 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/54.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/template/img/dial.jpg 2 http://adm-mosalsk.dialweb.ru/
+/manager/assets/images/side_menu/culture/70.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/assets/images/investment-offers/26.jpg::%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA%20%D1%8E%D0%B3%D0%BE-%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B5%D0%B5%20%D0%B4.%20%D0%9F%D0%B0%D0%BD%D1%8C%D1%88%D0%B8%D0%BD%D0%BE 1 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/49.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/template/img/img.jpg::%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D0%BE%D1%82%D0%BE%7C%7C/template/img/img.jpg::%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%9D%D0%B0%D0%B7%D0%B2%D0 2 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/46.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/78.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/21.jpg 45 http://adm-mosalsk.dialweb.ru/manager/index.php
+/manager/assets/images/side_menu/culture/39.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/img/aside-img2.jpg 2 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/img/aside-img5.jpg 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/medical/s7301485.jpg 3 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/img/aside-img8.jpg 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/js/jquery-1.11.1.min.js 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/12.jpg 59 http://adm-mosalsk.dialweb.ru/manager/index.php
+/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/template/img/aside-img6.jpg 1 http://adm-mosalsk.dialweb.ru/%3Cp%3E%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%BD%D0%B0%D1%85%D0%BE%D0%B4%D0%B8%D1%82%D1%81%D1%8F%20%D0%B2%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5.%3C/p%3E
+/manager/assets/images/side_menu/culture/72.jpg 26 http://adm-mosalsk.dialweb.ru/manager/index.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 9
+91.244.244.4 8061 16486 66120986 20160322180849 20160322090332 /manager/index.php
+176.213.204.78 1528 1603 5248835 20160320160744
+5.167.135.166 1415 2257 16636838 20160320134023
+89.107.192.129 1019 2874 4415317 20160318230003
+178.76.204.217 10 42 1171528 20160316181430
+66.102.9.27 1 16 158249 20160322114535
+5.164.23.214 1 5 54816 20160322080014
+66.102.9.49 1 9 96714 20160320164517
+66.102.9.38 0 15 965695 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20160311 109 283 2073454 1
+20160314 24 131 1417740 3
+20160315 14 78 2324642 2
+20160316 11 75 1174597 2
+20160318 2432 6134 9753789 2
+20160320 2944 3865 21940542 3
+20160321 3623 7117 28377071 2
+20160322 2879 5624 27807143 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 6
+0s-30s 7
+15mn-30mn 1
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 89
+/manager/index.php 8636 27340956 0 7
+/assets/plugins/tinymce/js/tinymce.linklist.php 1035 9554888 0 0
+/manager/media/browser/mcpuk/browse.php 765 2068184 0 0
+/manager/includes/session_keepalive.php 171 72637 0 0
+/manager/media/browser/mcpuk/browser.php 170 96108 0 0
+/manager/media/browser/mcpuk/js_localize.php 168 1757472 0 0
+/manager/media/browser/mcpuk/css.php 168 223296 0 0
+/ 118 427468 14 8
+/about.html 103 285804 0 0
+/manager/ 62 125257 4 2
+/telefony-administracii.html 2 5343 0 0
+/imushhestvo.html 5 22909 0 0
+/ploshhadka-n-4-mestorozhdenie-gliny.html 1 4613 0 0
+/ustanovlennye-formy-obrashhenij.html 3 8401 0 0
+/aukcion-n082013-naznachennyj-na-20032013g-po-prodazhe-zemelnyh-uchastkov-raspolozhennyh-v-d-svirkovo-i-d-shherbinino.html 1 6682 0 0
+/administrativnye-reglamenty-predostavlenie-uslug.html 13 36772 0 0
+/internet-priemnaya.html 4 11239 0 0
+/ploshhadka-n-3-zdanie-i-uchastok-byvshej-shkoly-v-d-voronino.html 1 4764 0 0
+/zemelnye-uchastki.html 18 67434 0 0
+/izveshhenie-o-provedenii-23-iyulya-2013g-v-1510-aukciona-na-pravo-zaklyucheniya-dogovora-arendy-nedvizhimogo-imushhestva-nahodyashhegosya-v-municipalnoj-sobstvennosti.html 5 20675 0 0
+/rezultaty-poiska.html 3 6079 0 0
+/kadrovoe-obespechenie.html 2 8592 0 0
+/konkursy-i-aukciony.html 4 10866 0 0
+/manager/processors/login.processor.php 14 8587 0 0
+/perechen-zemelnyh-uchastkov-sformirovannyh-v-celyah-predostavleniya-grazhdanam-v-sootvetstvii-s-zakonom-kaluzhskoj-oblasti.html 1 4712 0 0
+/turizm.html 9 23335 0 0
+/assets/plugins/tinymce/tiny_mce/plugins/style/props.htm 1 4295 0 0
+/informacionnoe-soobshhenie-o-provedenii-3-iyunya-2014-g-prodazhi-municipalnogo-imushhestva-posredstvom-publichnogo-predlozheniya.html 1 9164 0 0
+/manager/media/browser/mcpuk/js/browser/joiner.php 4 367828 0 0
+/telefonnyj-spravochnik-administracii.html 3 14860 0 0
+/assets/plugins/tinymce/tiny_mce/themes/advanced/color_picker.htm 2 2818 0 0
+/assets/plugins/tinymce/tiny_mce/plugins/advlink/link.htm 5 15125 0 0
+/municipalnoe-imushhestvo.html 18 62076 0 0
+/obyavleniya.html 2 6320 0 0
+/struktura-administracii.html 2 6923 0 0
+/assets/plugins/tinymce/tiny_mce/plugins/paste/pastetext.htm 1 919 0 0
+/itogi-aukciona-n-032013-naznachennogo-na-21012013-goda-po-prodazhe-zemelnyh-uchastkov-iz-zemel-naselennyh-puktov-raspolozhennyh-kaluzhskaya-oblast-mosalskij-rajon-d-simonovo-i-d-vyazichnya.html 1 3978 0 0
+/go-i-chs.html 3 30158 0 0
+/2011-god.html 1 2970 0 0
+/assets/plugins/tinymce/tiny_mce/themes/advanced/source_editor.htm 1 953 0 0
+/install/connection.collation.php 1 1743 0 0
+/resheniya-rajonnogo-sobraniya.html 8 27027 0 0
+/assets/plugins/tinymce/tiny_mce/plugins/table/table.htm 5 10855 0 0
+/obzor-obrashhenij.html 3 8402 0 0
+/normativnye-dokumenty.html 20 55687 0 0
+/perechen-zemelnyh-uchastkov.html 2 9239 0 0
+/poleznaya-informaciya.html 10 45389 0 0
+/informacionnoe-soobshhenie-o-provedenii-14-oktyabrya-2014-g-aukciona-po-prodazhe-municipalnogo-imushhestva.html 1 8034 0 0
+/assets/plugins/tinymce/tiny_mce/plugins/table/cell.htm 2 3808 0 0
+/postanovleniya-administracii.html 11 31166 0 0
+/grafik-priema-grazhdan-kontaktnye-telefony.html 3 9750 0 0
+/assets/plugins/tinymce/tiny_mce/plugins/advimage/image.htm 5 14020 0 0
+/investicionnye-predlozheniya.html 15 51751 0 0
+/itogi-provedennogo-03-iyulya-2013g-aukciona-po-prodazhe-zemelnyh-uchastkov.html 1 3711 0 0
+/zdravohranenie.html 2 8487 0 0
+/rajonnoe-sobranie.html 10 34690 0 0
+/in-map.html 29 111210 0 0
+/install/connection.servertest.php 1 394 0 0
+/socialnaya-sfera.html 11 28883 0 0
+/itogi-aukciona-n-012013-naznachennogo-na-18012013-goda-po-prodazhe-zemelnogo-uchastka-iz-zemel-selskohozyajstvennogo-naznacheniya-raspolozhennogo-po-adresu-kaluzhskaya-oblast-mosalskij-rajon-primerno-v-460m-na-severo-zapad-ot-d-malyshevo-d8.html 12 43874 0 0
+/administraciya-rajona.html 35 108671 0 0
+/reshenie-rajonnogo-sobraniya-mr-mosalskij-rajon-ot-07122012g-n139.html 28 155858 0 0
+/poryadok-i-vremya-priema.html 6 16791 0 0
+/ekonomika-i-finansy.html 6 15618 0 0
+/install/index.php 6 17090 0 0
+/blanki-zayavlenij.html 2 5769 0 0
+/filial-gbu-ko-mfc.html 5 13141 0 0
+/itogi-aukciona-n-022013-naznachennogo-na-21012013-goda-po-prodazhe-zemelnogo-uchastka-iz-zemel-naselennyh-puktov-raspolozhennogo-po-adresu-kaluzhskaya-oblast-mosalskij-rajon-d-vyazichnya.html 3 11596 0 0
+/2012-god.html 2 5834 0 0
+/normativnye-dokumenty-po-zemelno-imushhestvennym-otnosheniyam.html 2 6305 0 0
+/assets/plugins/tinymce/tiny_mce/plugins/paste/pasteword.htm 2 1466 0 0
+/ploshhadka-n-2-mestorozhdenie-gliny-yugo-vostochnee-d-kirpichnogo-zavoda.html 1 4591 0 0
+/manager/processors/remove_installer.processor.php 1 300 0 0
+/priem-obrashhenij.html 13 36156 0 0
+/istoriya.html 40 315926 0 0
+/yarmarka-yablochnyj-spas2.html 4 10468 0 0
+/assets/plugins/tinymce/tiny_mce/plugins/table/row.htm 1 1808 0 0
+/obrazovanie.html 13 145600 0 0
+/administrativno-territorialnoe-ustrojstvo.html 18 89048 0 0
+/aukcion-n072013-naznachennyj-na-20032013g-po-prodazhe-zemelnyh-uchastkov-iz-zemel-selskohozyajstvennogo-naznacheniya-raspolozhennyh-okolo-d-gachki-okolo-d-lyudkovo.html 1 7148 0 0
+/organy-vlasti.html 44 120753 0 0
+/install/connection.databasetest.php 1 379 0 0
+/glava-municipalnogo-rajona.html 17 47052 0 0
+/gallery.html 53 157558 0 0
+/aukcion-n062013g-naznachennyj-na-07-marta-2013g-po-prodazhe-zemelnyh-uchastkov-dlya-individualnogo-zhilishhnogo-stroitelstva-po-adresu-kaluzhskaya-oblast-mosalskij-rajon-d-simonovo-i-d-selco.html 7 49642 0 0
+/ploshhadka-n-1-ploshhadka-pod-promyshlennoe-proizvodstvo-v-dlihanovo.html 11 48933 0 0
+/itogi-aukciona-n-042013-naznachennogo-na-25012013-goda-po-prodazhe-zemelnyh-uchastkov.html 2 7727 0 0
+/kultura.html 21 646604 0 0
+/geograficheskaya-harakteristika.html 12 45788 0 0
+END_SIDER
